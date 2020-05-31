@@ -1,0 +1,228 @@
+
+/*  NAVBAR CSS START*/
+
+
+
+.navbar {
+  
+  background: #fff;
+   }
+  .navbar .nav-item {
+    color: black;
+    font-size: 1 rem;
+    padding-right: 20px; }
+  .navbar .nav-item:last-child {
+    padding-right: 0; }
+
+    .navbar .nav-item a{
+      color: black;
+    }
+
+
+
+
+    /*  NAVBAR CSS END*/
+
+
+
+
+    
+/*  HEADER  CSS START*/
+
+
+
+    .sticky-bg{
+      background: #e4e4e4;
+      height: 50px;
+    }
+    .sticky-bg p{
+     font-weight: bold;
+    }
+    .sticky-p{
+      display: inline-block;
+      margin-top: 12px;
+      margin-left: 10px;
+    }
+    .sticky-tk{
+    font-weight: bold;
+      float: right;
+      margin-right: 5px;
+      margin-top: 12px;
+    }
+
+    .sticky-b{
+      float: right;
+      padding: 5px 25px;
+      border: none;
+      color: black;
+      margin-top: 8px;
+      margin-right: 10px;
+    }
+
+
+
+    /*  HEADER CSS END*/
+
+
+
+
+
+    /*  SIZE CSS START*/
+
+
+    
+    .leadp{
+     font-size: 12px;
+    }
+
+    .circle-color{
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: cadetblue;
+      display: inline-block;
+    
+    }
+    .size-button{
+      border: 1px solid gainsboro;
+      background: #ffffff;
+      color: black;
+    }
+    .select-button{
+      width: 100%;
+      border: none;
+      background: #e4e4e4;
+      padding: 10px 0;
+    }
+    .select-button:hover{
+      background: #696969;
+      color: #e4e4e4;
+    }
+
+
+
+
+    /*  SIZE CSS END*/
+
+
+/*  ACCORDIAN  CSS START*/
+
+
+    .accor{
+      font-size: 14px;
+    }
+
+
+    /*  ACCORDIAN CSS END*/
+
+
+
+/*  FEATURES CSS START*/
+
+
+   .feature-div{
+      padding: 10px 10px;
+     background: #e4e4e4;
+   }
+   .diamond{
+     font-size: 50px;
+     margin-top: 23px;
+   }
+
+
+/*  FEATURES CSS END*/
+
+
+
+  
+
+/*  CART CSS START*/
+
+.nav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background-color:white;
+	overflow-x: hidden;
+	padding-top: 60px;
+  transition: 0.7s;
+  z-index: 99999999999999999999999999999;
+}
+
+.nav .close {
+	position: absolute;
+	top: 0;
+	right: 22px;
+	margin-left: 50px;
+  font-size: 30px;
+  color: #000;
+}
+#content {
+	padding: 20px;
+	transition: margin-right 0.7s;
+	overflow: hidden;
+	width: 100%;
+}
+.quan{
+  width: 100%
+ 
+}
+.border{
+  border-left: 1px solid black;
+}
+
+/*  CART CSS END*/
+
+
+
+
+
+/*  RESPONSIVE CSS START*/
+@media only screen and (max-width:480px){
+
+    .sticky-p{
+      font-size: 12px;
+    }
+    .sticky-tk{
+      font-size: 12px;
+    }
+    .sticky-b{
+      padding: 5px 10px;
+      font-size: 14px;
+    }
+ 
+}
+
+
+/*  RESPONSIVE CSS END*/
+
+
+
+
+
+
+/************************  CLOSED CSS   ************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
